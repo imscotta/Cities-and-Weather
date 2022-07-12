@@ -1,4 +1,4 @@
-# Maps of Cities and Weather
+# Cities and Weather
 
 Part 1 Weather
 
